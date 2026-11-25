@@ -1,0 +1,385 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-11-25">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="topic_distribution" type="string" />
+    </attributes>
+    <nodes>
+      <node id="AltKnight" label="AltKnight">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.15434782608695652, 'Anti-left': 0.07173913043478261, 'Antisemitism and islamophobia': 0.06739130434782609, 'Immigration': 0.05652173913043478, 'Nationalism and white supremacy': 0.1282608695652174, 'Offline activism, mobilization and violence': 0.08260869565217391, 'Online coordination': 0.17391304347826086, 'Proud Boys/Antifa and the manosphere': 0.17608695652173914, 'UK politics and Brexit': 0.021739130434782608, 'US politics and Trumpism': 0.06739130434782609}" />
+        </attvalues>
+      </node>
+      <node id="Brexiteers" label="Brexiteers">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.15157515751575157, 'Anti-left': 0.05922592259225923, 'Antisemitism and islamophobia': 0.04554455445544554, 'Immigration': 0.043384338433843386, 'Nationalism and white supremacy': 0.01998199819981998, 'Offline activism, mobilization and violence': 0.07992799279927992, 'Online coordination': 0.22376237623762377, 'Proud Boys/Antifa and the manosphere': 0.06804680468046805, 'UK politics and Brexit': 0.2712871287128713, 'US politics and Trumpism': 0.037263726372637265}" />
+        </attvalues>
+      </node>
+      <node id="PBCanada" label="PBCanada">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.1120971508640822, 'Anti-left': 0.08080336291452592, 'Antisemitism and islamophobia': 0.029425502101821578, 'Immigration': 0.029425502101821578, 'Nationalism and white supremacy': 0.02148528724894909, 'Offline activism, mobilization and violence': 0.10368986454927603, 'Online coordination': 0.185894441849603, 'Proud Boys/Antifa and the manosphere': 0.38393274170948155, 'UK politics and Brexit': 0.01914992993928071, 'US politics and Trumpism': 0.03409621672115834}" />
+        </attvalues>
+      </node>
+      <node id="ProudBoysCanada" label="ProudBoysCanada">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.11226415094339623, 'Anti-left': 0.07924528301886792, 'Antisemitism and islamophobia': 0.031132075471698113, 'Immigration': 0.03018867924528302, 'Nationalism and white supremacy': 0.02169811320754717, 'Offline activism, mobilization and violence': 0.1009433962264151, 'Online coordination': 0.1792452830188679, 'Proud Boys/Antifa and the manosphere': 0.3886792452830189, 'UK politics and Brexit': 0.01981132075471698, 'US politics and Trumpism': 0.03679245283018868}" />
+        </attvalues>
+      </node>
+      <node id="ResistMarxism" label="ResistMarxism">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.16666666666666666, 'Anti-left': 0.07142857142857142, 'Antisemitism and islamophobia': 0.031746031746031744, 'Immigration': 0.09523809523809523, 'Nationalism and white supremacy': 0.1111111111111111, 'Offline activism, mobilization and violence': 0.07142857142857142, 'Online coordination': 0.12698412698412698, 'Proud Boys/Antifa and the manosphere': 0.1746031746031746, 'UK politics and Brexit': 0.031746031746031744, 'US politics and Trumpism': 0.11904761904761904}" />
+        </attvalues>
+      </node>
+      <node id="brexiteerschatlounge" label="brexiteerschatlounge">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.15206438526467317, 'Anti-left': 0.060851926977687626, 'Antisemitism and islamophobia': 0.05313092979127135, 'Immigration': 0.045344500425309166, 'Nationalism and white supremacy': 0.03507164823660276, 'Offline activism, mobilization and violence': 0.08303343584374795, 'Online coordination': 0.20781260223778053, 'Proud Boys/Antifa and the manosphere': 0.07577046391415299, 'UK politics and Brexit': 0.2586534057449454, 'US politics and Trumpism': 0.028266701563829093}" />
+        </attvalues>
+      </node>
+      <node id="redpilldragon" label="redpilldragon">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.25076452599388377, 'Anti-left': 0.16896024464831805, 'Antisemitism and islamophobia': 0.04204892966360856, 'Immigration': 0.035168195718654434, 'Nationalism and white supremacy': 0.05045871559633028, 'Offline activism, mobilization and violence': 0.0290519877675841, 'Online coordination': 0.16131498470948014, 'Proud Boys/Antifa and the manosphere': 0.1452599388379205, 'UK politics and Brexit': 0.008409785932721712, 'US politics and Trumpism': 0.10856269113149847}" />
+        </attvalues>
+      </node>
+      <node id="BlackonWhiteCrime" label="BlackonWhiteCrime">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.27380952380952384, 'Anti-left': 0.011904761904761904, 'Antisemitism and islamophobia': 0.07142857142857142, 'Immigration': 0.11904761904761904, 'Nationalism and white supremacy': 0.2619047619047619, 'Offline activism, mobilization and violence': 0.15476190476190477, 'Online coordination': 0.047619047619047616, 'Proud Boys/Antifa and the manosphere': 0.03571428571428571, 'UK politics and Brexit': 0.011904761904761904, 'US politics and Trumpism': 0.011904761904761904}" />
+        </attvalues>
+      </node>
+      <node id="Neonrightmemes" label="Neonrightmemes">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.07766990291262135, 'Anti-left': 0.04854368932038835, 'Antisemitism and islamophobia': 0.0970873786407767, 'Immigration': 0.02912621359223301, 'Nationalism and white supremacy': 0.44660194174757284, 'Offline activism, mobilization and violence': 0.0, 'Online coordination': 0.13592233009708737, 'Proud Boys/Antifa and the manosphere': 0.1262135922330097, 'UK politics and Brexit': 0.0, 'US politics and Trumpism': 0.038834951456310676}" />
+        </attvalues>
+      </node>
+      <node id="BloodAndSoil" label="BloodAndSoil">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.0, 'Anti-left': 0.0, 'Antisemitism and islamophobia': 0.0, 'Immigration': 0.0, 'Nationalism and white supremacy': 0.8181818181818182, 'Offline activism, mobilization and violence': 0.0, 'Online coordination': 0.18181818181818182, 'Proud Boys/Antifa and the manosphere': 0.0, 'UK politics and Brexit': 0.0, 'US politics and Trumpism': 0.0}" />
+        </attvalues>
+      </node>
+      <node id="HitlerismWorldwide" label="HitlerismWorldwide">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.0, 'Anti-left': 0.0, 'Antisemitism and islamophobia': 0.1, 'Immigration': 0.0, 'Nationalism and white supremacy': 0.9, 'Offline activism, mobilization and violence': 0.0, 'Online coordination': 0.0, 'Proud Boys/Antifa and the manosphere': 0.0, 'UK politics and Brexit': 0.0, 'US politics and Trumpism': 0.0}" />
+        </attvalues>
+      </node>
+      <node id="SheenaParks" label="SheenaParks">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.20310478654592498, 'Anti-left': 0.06985769728331177, 'Antisemitism and islamophobia': 0.2095730918499353, 'Immigration': 0.0685640362225097, 'Nationalism and white supremacy': 0.042690815006468305, 'Offline activism, mobilization and violence': 0.03492884864165589, 'Online coordination': 0.13454075032341525, 'Proud Boys/Antifa and the manosphere': 0.09961190168175937, 'UK politics and Brexit': 0.12807244501940493, 'US politics and Trumpism': 0.009055627425614488}" />
+        </attvalues>
+      </node>
+      <node id="EsotericNationalSocialism" label="EsotericNationalSocialism">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.06103286384976526, 'Anti-left': 0.02112676056338028, 'Antisemitism and islamophobia': 0.10328638497652583, 'Immigration': 0.002347417840375587, 'Nationalism and white supremacy': 0.6737089201877934, 'Offline activism, mobilization and violence': 0.011737089201877934, 'Online coordination': 0.12206572769953052, 'Proud Boys/Antifa and the manosphere': 0.004694835680751174, 'UK politics and Brexit': 0.0, 'US politics and Trumpism': 0.0}" />
+        </attvalues>
+      </node>
+      <node id="FascistLibrary" label="FascistLibrary">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.06318681318681318, 'Anti-left': 0.019917582417582416, 'Antisemitism and islamophobia': 0.19986263736263737, 'Immigration': 0.012362637362637362, 'Nationalism and white supremacy': 0.28296703296703296, 'Offline activism, mobilization and violence': 0.008241758241758242, 'Online coordination': 0.39903846153846156, 'Proud Boys/Antifa and the manosphere': 0.004807692307692308, 'UK politics and Brexit': 0.0020604395604395605, 'US politics and Trumpism': 0.007554945054945055}" />
+        </attvalues>
+      </node>
+      <node id="LunarHorse" label="LunarHorse">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.14105793450881612, 'Anti-left': 0.020151133501259445, 'Antisemitism and islamophobia': 0.163727959697733, 'Immigration': 0.027707808564231738, 'Nationalism and white supremacy': 0.3350125944584383, 'Offline activism, mobilization and violence': 0.08060453400503778, 'Online coordination': 0.11335012594458438, 'Proud Boys/Antifa and the manosphere': 0.11083123425692695, 'UK politics and Brexit': 0.0025188916876574307, 'US politics and Trumpism': 0.005037783375314861}" />
+        </attvalues>
+      </node>
+      <node id="Unempatheticeuro" label="Unempatheticeuro">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.1504424778761062, 'Anti-left': 0.008849557522123894, 'Antisemitism and islamophobia': 0.21238938053097345, 'Immigration': 0.04424778761061947, 'Nationalism and white supremacy': 0.30973451327433627, 'Offline activism, mobilization and violence': 0.048672566371681415, 'Online coordination': 0.09734513274336283, 'Proud Boys/Antifa and the manosphere': 0.09734513274336283, 'UK politics and Brexit': 0.004424778761061947, 'US politics and Trumpism': 0.02654867256637168}" />
+        </attvalues>
+      </node>
+      <node id="VolkischOdina" label="VolkischOdina">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.12700729927007298, 'Anti-left': 0.026277372262773723, 'Antisemitism and islamophobia': 0.08905109489051095, 'Immigration': 0.020437956204379562, 'Nationalism and white supremacy': 0.4642335766423358, 'Offline activism, mobilization and violence': 0.00291970802919708, 'Online coordination': 0.23941605839416058, 'Proud Boys/Antifa and the manosphere': 0.016058394160583942, 'UK politics and Brexit': 0.013138686131386862, 'US politics and Trumpism': 0.00145985401459854}" />
+        </attvalues>
+      </node>
+      <node id="whiteresistance" label="whiteresistance">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.1320754716981132, 'Anti-left': 0.031446540880503145, 'Antisemitism and islamophobia': 0.1761006289308176, 'Immigration': 0.06918238993710692, 'Nationalism and white supremacy': 0.3710691823899371, 'Offline activism, mobilization and violence': 0.018867924528301886, 'Online coordination': 0.09433962264150944, 'Proud Boys/Antifa and the manosphere': 0.08176100628930817, 'UK politics and Brexit': 0.006289308176100629, 'US politics and Trumpism': 0.018867924528301886}" />
+        </attvalues>
+      </node>
+      <node id="FaithInRace" label="FaithInRace">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.08264462809917356, 'Anti-left': 0.008264462809917356, 'Antisemitism and islamophobia': 0.2892561983471074, 'Immigration': 0.01652892561983471, 'Nationalism and white supremacy': 0.40082644628099173, 'Offline activism, mobilization and violence': 0.03305785123966942, 'Online coordination': 0.13636363636363635, 'Proud Boys/Antifa and the manosphere': 0.024793388429752067, 'UK politics and Brexit': 0.0, 'US politics and Trumpism': 0.008264462809917356}" />
+        </attvalues>
+      </node>
+      <node id="ChurchofRacism" label="ChurchofRacism">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.08333333333333333, 'Anti-left': 0.0, 'Antisemitism and islamophobia': 0.2708333333333333, 'Immigration': 0.0, 'Nationalism and white supremacy': 0.5, 'Offline activism, mobilization and violence': 0.0, 'Online coordination': 0.125, 'Proud Boys/Antifa and the manosphere': 0.020833333333333332, 'UK politics and Brexit': 0.0, 'US politics and Trumpism': 0.0}" />
+        </attvalues>
+      </node>
+      <node id="RapeTibbygram" label="RapeTibbygram">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.12371134020618557, 'Anti-left': 0.010309278350515464, 'Antisemitism and islamophobia': 0.17525773195876287, 'Immigration': 0.020618556701030927, 'Nationalism and white supremacy': 0.15463917525773196, 'Offline activism, mobilization and violence': 0.08247422680412371, 'Online coordination': 0.061855670103092786, 'Proud Boys/Antifa and the manosphere': 0.35051546391752575, 'UK politics and Brexit': 0.020618556701030927, 'US politics and Trumpism': 0.0}" />
+        </attvalues>
+      </node>
+      <node id="puresodiumpolitics" label="puresodiumpolitics">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.17669172932330826, 'Anti-left': 0.04887218045112782, 'Antisemitism and islamophobia': 0.23308270676691728, 'Immigration': 0.04887218045112782, 'Nationalism and white supremacy': 0.33458646616541354, 'Offline activism, mobilization and violence': 0.015037593984962405, 'Online coordination': 0.05263157894736842, 'Proud Boys/Antifa and the manosphere': 0.041353383458646614, 'UK politics and Brexit': 0.03007518796992481, 'US politics and Trumpism': 0.018796992481203006}" />
+        </attvalues>
+      </node>
+      <node id="wawaryanwoman" label="wawaryanwoman">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.03529411764705882, 'Anti-left': 0.011764705882352941, 'Antisemitism and islamophobia': 0.047058823529411764, 'Immigration': 0.011764705882352941, 'Nationalism and white supremacy': 0.7529411764705882, 'Offline activism, mobilization and violence': 0.0, 'Online coordination': 0.07058823529411765, 'Proud Boys/Antifa and the manosphere': 0.058823529411764705, 'UK politics and Brexit': 0.0, 'US politics and Trumpism': 0.011764705882352941}" />
+        </attvalues>
+      </node>
+      <node id="Fascistqoutes" label="Fascistqoutes">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.035483870967741936, 'Anti-left': 0.01935483870967742, 'Antisemitism and islamophobia': 0.17419354838709677, 'Immigration': 0.01935483870967742, 'Nationalism and white supremacy': 0.6225806451612903, 'Offline activism, mobilization and violence': 0.00967741935483871, 'Online coordination': 0.08709677419354839, 'Proud Boys/Antifa and the manosphere': 0.03225806451612903, 'UK politics and Brexit': 0.0, 'US politics and Trumpism': 0.0}" />
+        </attvalues>
+      </node>
+      <node id="islamicnatsoc" label="islamicnatsoc">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.15335463258785942, 'Anti-left': 0.023429179978700747, 'Antisemitism and islamophobia': 0.28753993610223644, 'Immigration': 0.024494142705005325, 'Nationalism and white supremacy': 0.1501597444089457, 'Offline activism, mobilization and violence': 0.06070287539936102, 'Online coordination': 0.1299254526091587, 'Proud Boys/Antifa and the manosphere': 0.08519701810436635, 'UK politics and Brexit': 0.023429179978700747, 'US politics and Trumpism': 0.0617678381256656}" />
+        </attvalues>
+      </node>
+      <node id="Hitler_was_Right" label="Hitler_was_Right">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.0, 'Anti-left': 0.0, 'Antisemitism and islamophobia': 0.028901734104046242, 'Immigration': 0.0, 'Nationalism and white supremacy': 0.953757225433526, 'Offline activism, mobilization and violence': 0.0, 'Online coordination': 0.011560693641618497, 'Proud Boys/Antifa and the manosphere': 0.005780346820809248, 'UK politics and Brexit': 0.0, 'US politics and Trumpism': 0.0}" />
+        </attvalues>
+      </node>
+      <node id="TheThirdPosition" label="TheThirdPosition">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.10126582278481013, 'Anti-left': 0.03164556962025317, 'Antisemitism and islamophobia': 0.14556962025316456, 'Immigration': 0.006329113924050633, 'Nationalism and white supremacy': 0.2468354430379747, 'Offline activism, mobilization and violence': 0.14556962025316456, 'Online coordination': 0.21518987341772153, 'Proud Boys/Antifa and the manosphere': 0.0759493670886076, 'UK politics and Brexit': 0.012658227848101266, 'US politics and Trumpism': 0.0189873417721519}" />
+        </attvalues>
+      </node>
+      <node id="Holocaust2" label="Holocaust2">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.09688581314878893, 'Anti-left': 0.03806228373702422, 'Antisemitism and islamophobia': 0.22145328719723184, 'Immigration': 0.03806228373702422, 'Nationalism and white supremacy': 0.2179930795847751, 'Offline activism, mobilization and violence': 0.0657439446366782, 'Online coordination': 0.2041522491349481, 'Proud Boys/Antifa and the manosphere': 0.07612456747404844, 'UK politics and Brexit': 0.006920415224913495, 'US politics and Trumpism': 0.03460207612456748}" />
+        </attvalues>
+      </node>
+      <node id="shapeshifters" label="shapeshifters">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.07784431137724551, 'Anti-left': 0.05389221556886228, 'Antisemitism and islamophobia': 0.32934131736526945, 'Immigration': 0.023952095808383235, 'Nationalism and white supremacy': 0.23353293413173654, 'Offline activism, mobilization and violence': 0.0, 'Online coordination': 0.09580838323353294, 'Proud Boys/Antifa and the manosphere': 0.023952095808383235, 'UK politics and Brexit': 0.1377245508982036, 'US politics and Trumpism': 0.023952095808383235}" />
+        </attvalues>
+      </node>
+      <node id="ImHitler" label="ImHitler">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.0, 'Anti-left': 0.0, 'Antisemitism and islamophobia': 0.15384615384615385, 'Immigration': 0.0, 'Nationalism and white supremacy': 0.46153846153846156, 'Offline activism, mobilization and violence': 0.0, 'Online coordination': 0.38461538461538464, 'Proud Boys/Antifa and the manosphere': 0.0, 'UK politics and Brexit': 0.0, 'US politics and Trumpism': 0.0}" />
+        </attvalues>
+      </node>
+      <node id="PoliticalMemes" label="PoliticalMemes">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.12833333333333333, 'Anti-left': 0.15333333333333332, 'Antisemitism and islamophobia': 0.03333333333333333, 'Immigration': 0.03666666666666667, 'Nationalism and white supremacy': 0.07166666666666667, 'Offline activism, mobilization and violence': 0.03166666666666667, 'Online coordination': 0.14833333333333334, 'Proud Boys/Antifa and the manosphere': 0.08333333333333333, 'UK politics and Brexit': 0.085, 'US politics and Trumpism': 0.22833333333333333}" />
+        </attvalues>
+      </node>
+      <node id="ProudBoysOfficial" label="ProudBoysOfficial">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.08960573476702509, 'Anti-left': 0.06093189964157706, 'Antisemitism and islamophobia': 0.017921146953405017, 'Immigration': 0.012544802867383513, 'Nationalism and white supremacy': 0.008960573476702509, 'Offline activism, mobilization and violence': 0.1003584229390681, 'Online coordination': 0.16308243727598568, 'Proud Boys/Antifa and the manosphere': 0.4731182795698925, 'UK politics and Brexit': 0.014336917562724014, 'US politics and Trumpism': 0.05913978494623656}" />
+        </attvalues>
+      </node>
+      <node id="ProudboysPDX" label="ProudboysPDX">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.1553398058252427, 'Anti-left': 0.10679611650485436, 'Antisemitism and islamophobia': 0.032362459546925564, 'Immigration': 0.025889967637540454, 'Nationalism and white supremacy': 0.025889967637540454, 'Offline activism, mobilization and violence': 0.07119741100323625, 'Online coordination': 0.1779935275080906, 'Proud Boys/Antifa and the manosphere': 0.2750809061488673, 'UK politics and Brexit': 0.019417475728155338, 'US politics and Trumpism': 0.11003236245954692}" />
+        </attvalues>
+      </node>
+      <node id="UniteTheRightUK" label="UniteTheRightUK">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.1760268231349539, 'Anti-left': 0.07544006705783739, 'Antisemitism and islamophobia': 0.07627829002514669, 'Immigration': 0.06286672254819782, 'Nationalism and white supremacy': 0.019279128248113998, 'Offline activism, mobilization and violence': 0.054484492875104776, 'Online coordination': 0.1751886001676446, 'Proud Boys/Antifa and the manosphere': 0.03604358759430008, 'UK politics and Brexit': 0.3034367141659681, 'US politics and Trumpism': 0.020955574182732608}" />
+        </attvalues>
+      </node>
+      <node id="proudboysaustralia" label="proudboysaustralia">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.128, 'Anti-left': 0.04, 'Antisemitism and islamophobia': 0.032, 'Immigration': 0.0, 'Nationalism and white supremacy': 0.04, 'Offline activism, mobilization and violence': 0.064, 'Online coordination': 0.2, 'Proud Boys/Antifa and the manosphere': 0.4, 'UK politics and Brexit': 0.024, 'US politics and Trumpism': 0.072}" />
+        </attvalues>
+      </node>
+      <node id="proudboysbritannia" label="proudboysbritannia">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.09146341463414634, 'Anti-left': 0.07195121951219512, 'Antisemitism and islamophobia': 0.03414634146341464, 'Immigration': 0.036585365853658534, 'Nationalism and white supremacy': 0.06463414634146342, 'Offline activism, mobilization and violence': 0.07926829268292683, 'Online coordination': 0.20609756097560974, 'Proud Boys/Antifa and the manosphere': 0.2731707317073171, 'UK politics and Brexit': 0.07682926829268293, 'US politics and Trumpism': 0.06585365853658537}" />
+        </attvalues>
+      </node>
+      <node id="SouthAfricaReports" label="SouthAfricaReports">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.15625, 'Anti-left': 0.034722222222222224, 'Antisemitism and islamophobia': 0.020833333333333332, 'Immigration': 0.04861111111111111, 'Nationalism and white supremacy': 0.2048611111111111, 'Offline activism, mobilization and violence': 0.3576388888888889, 'Online coordination': 0.125, 'Proud Boys/Antifa and the manosphere': 0.0, 'UK politics and Brexit': 0.027777777777777776, 'US politics and Trumpism': 0.024305555555555556}" />
+        </attvalues>
+      </node>
+      <node id="WhiteIsRight" label="WhiteIsRight">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.17516543402101986, 'Anti-left': 0.064616582327754, 'Antisemitism and islamophobia': 0.12339431685480731, 'Immigration': 0.041650447644998055, 'Nationalism and white supremacy': 0.1307901907356948, 'Offline activism, mobilization and violence': 0.035811599844297395, 'Online coordination': 0.18295056442195406, 'Proud Boys/Antifa and the manosphere': 0.09303230829116388, 'UK politics and Brexit': 0.022187621642662515, 'US politics and Trumpism': 0.1304009342156481}" />
+        </attvalues>
+      </node>
+      <node id="untitledredpills" label="untitledredpills">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.1111111111111111, 'Anti-left': 0.013071895424836602, 'Antisemitism and islamophobia': 0.13071895424836602, 'Immigration': 0.013071895424836602, 'Nationalism and white supremacy': 0.27450980392156865, 'Offline activism, mobilization and violence': 0.0784313725490196, 'Online coordination': 0.2875816993464052, 'Proud Boys/Antifa and the manosphere': 0.0718954248366013, 'UK politics and Brexit': 0.006535947712418301, 'US politics and Trumpism': 0.013071895424836602}" />
+        </attvalues>
+      </node>
+      <node id="libertaryanchannel" label="libertaryanchannel">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.3012295081967213, 'Anti-left': 0.06147540983606557, 'Antisemitism and islamophobia': 0.13934426229508196, 'Immigration': 0.0430327868852459, 'Nationalism and white supremacy': 0.1290983606557377, 'Offline activism, mobilization and violence': 0.10040983606557377, 'Online coordination': 0.04918032786885246, 'Proud Boys/Antifa and the manosphere': 0.0860655737704918, 'UK politics and Brexit': 0.010245901639344262, 'US politics and Trumpism': 0.07991803278688525}" />
+        </attvalues>
+      </node>
+      <node id="white_genocide" label="white_genocide">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.14173228346456693, 'Anti-left': 0.04199475065616798, 'Antisemitism and islamophobia': 0.1968503937007874, 'Immigration': 0.24671916010498687, 'Nationalism and white supremacy': 0.2283464566929134, 'Offline activism, mobilization and violence': 0.013123359580052493, 'Online coordination': 0.06561679790026247, 'Proud Boys/Antifa and the manosphere': 0.02099737532808399, 'UK politics and Brexit': 0.028871391076115485, 'US politics and Trumpism': 0.015748031496062992}" />
+        </attvalues>
+      </node>
+      <node id="boogalooprep" label="boogalooprep">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.25252525252525254, 'Anti-left': 0.07575757575757576, 'Antisemitism and islamophobia': 0.08080808080808081, 'Immigration': 0.005050505050505051, 'Nationalism and white supremacy': 0.09090909090909091, 'Offline activism, mobilization and violence': 0.2222222222222222, 'Online coordination': 0.19696969696969696, 'Proud Boys/Antifa and the manosphere': 0.045454545454545456, 'UK politics and Brexit': 0.0, 'US politics and Trumpism': 0.030303030303030304}" />
+        </attvalues>
+      </node>
+      <node id="meineehreheissttreue" label="meineehreheissttreue">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.10526315789473684, 'Anti-left': 0.0, 'Antisemitism and islamophobia': 0.21052631578947367, 'Immigration': 0.0, 'Nationalism and white supremacy': 0.631578947368421, 'Offline activism, mobilization and violence': 0.0, 'Online coordination': 0.0, 'Proud Boys/Antifa and the manosphere': 0.05263157894736842, 'UK politics and Brexit': 0.0, 'US politics and Trumpism': 0.0}" />
+        </attvalues>
+      </node>
+      <node id="pishroofficial" label="pishroofficial">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.0, 'Anti-left': 0.0, 'Antisemitism and islamophobia': 0.0, 'Immigration': 0.0, 'Nationalism and white supremacy': 0.0, 'Offline activism, mobilization and violence': 0.0, 'Online coordination': 1.0, 'Proud Boys/Antifa and the manosphere': 0.0, 'UK politics and Brexit': 0.0, 'US politics and Trumpism': 0.0}" />
+        </attvalues>
+      </node>
+      <node id="weebposting" label="weebposting">
+        <attvalues>
+          <attvalue for="0" value="{'Anti-establishment, lies and disinformation': 0.04918032786885246, 'Anti-left': 0.04918032786885246, 'Antisemitism and islamophobia': 0.18032786885245902, 'Immigration': 0.0, 'Nationalism and white supremacy': 0.19672131147540983, 'Offline activism, mobilization and violence': 0.06557377049180328, 'Online coordination': 0.16393442622950818, 'Proud Boys/Antifa and the manosphere': 0.29508196721311475, 'UK politics and Brexit': 0.0, 'US politics and Trumpism': 0.0}" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="AltKnight" target="Brexiteers" id="0" weight="1.0" />
+      <edge source="AltKnight" target="PBCanada" id="1" weight="14.0" />
+      <edge source="AltKnight" target="ProudBoysCanada" id="2" weight="7.0" />
+      <edge source="AltKnight" target="ResistMarxism" id="3" weight="8.0" />
+      <edge source="AltKnight" target="brexiteerschatlounge" id="4" weight="3.0" />
+      <edge source="AltKnight" target="redpilldragon" id="5" weight="9.0" />
+      <edge source="Brexiteers" target="Brexiteers" id="6" weight="9.0" />
+      <edge source="Brexiteers" target="SheenaParks" id="7" weight="2.0" />
+      <edge source="Brexiteers" target="brexiteerschatlounge" id="8" weight="1601.0" />
+      <edge source="ProudBoysCanada" target="AltKnight" id="9" weight="13.0" />
+      <edge source="ProudBoysCanada" target="Brexiteers" id="10" weight="1.0" />
+      <edge source="ProudBoysCanada" target="PBCanada" id="11" weight="2.0" />
+      <edge source="ProudBoysCanada" target="ProudBoysCanada" id="12" weight="1.0" />
+      <edge source="ProudBoysCanada" target="ProudBoysOfficial" id="13" weight="103.0" />
+      <edge source="ProudBoysCanada" target="ProudboysPDX" id="14" weight="13.0" />
+      <edge source="ProudBoysCanada" target="ResistMarxism" id="15" weight="3.0" />
+      <edge source="ProudBoysCanada" target="UniteTheRightUK" id="16" weight="1.0" />
+      <edge source="ProudBoysCanada" target="brexiteerschatlounge" id="17" weight="4.0" />
+      <edge source="ProudBoysCanada" target="proudboysaustralia" id="18" weight="6.0" />
+      <edge source="ProudBoysCanada" target="proudboysbritannia" id="19" weight="25.0" />
+      <edge source="ProudBoysCanada" target="redpilldragon" id="20" weight="14.0" />
+      <edge source="ResistMarxism" target="AltKnight" id="21" weight="5.0" />
+      <edge source="ResistMarxism" target="ProudboysPDX" id="22" weight="4.0" />
+      <edge source="redpilldragon" target="AltKnight" id="23" weight="9.0" />
+      <edge source="redpilldragon" target="Brexiteers" id="24" weight="3.0" />
+      <edge source="redpilldragon" target="PBCanada" id="25" weight="22.0" />
+      <edge source="redpilldragon" target="ProudBoysCanada" id="26" weight="8.0" />
+      <edge source="redpilldragon" target="ProudBoysOfficial" id="27" weight="3.0" />
+      <edge source="redpilldragon" target="brexiteerschatlounge" id="28" weight="5.0" />
+      <edge source="redpilldragon" target="islamicnatsoc" id="29" weight="1.0" />
+      <edge source="redpilldragon" target="redpilldragon" id="30" weight="5.0" />
+      <edge source="BlackonWhiteCrime" target="Neonrightmemes" id="31" weight="1.0" />
+      <edge source="Neonrightmemes" target="Unempatheticeuro" id="32" weight="1.0" />
+      <edge source="BloodAndSoil" target="HitlerismWorldwide" id="33" weight="1.0" />
+      <edge source="HitlerismWorldwide" target="Hitler_was_Right" id="34" weight="1.0" />
+      <edge source="SheenaParks" target="SheenaParks" id="35" weight="2.0" />
+      <edge source="SheenaParks" target="brexiteerschatlounge" id="36" weight="5.0" />
+      <edge source="EsotericNationalSocialism" target="EsotericNationalSocialism" id="37" weight="1.0" />
+      <edge source="EsotericNationalSocialism" target="FascistLibrary" id="38" weight="11.0" />
+      <edge source="EsotericNationalSocialism" target="LunarHorse" id="39" weight="2.0" />
+      <edge source="EsotericNationalSocialism" target="Unempatheticeuro" id="40" weight="1.0" />
+      <edge source="EsotericNationalSocialism" target="VolkischOdina" id="41" weight="16.0" />
+      <edge source="EsotericNationalSocialism" target="whiteresistance" id="42" weight="1.0" />
+      <edge source="FascistLibrary" target="VolkischOdina" id="43" weight="31.0" />
+      <edge source="LunarHorse" target="BloodAndSoil" id="44" weight="2.0" />
+      <edge source="LunarHorse" target="LunarHorse" id="45" weight="1.0" />
+      <edge source="Unempatheticeuro" target="TheThirdPosition" id="46" weight="2.0" />
+      <edge source="VolkischOdina" target="EsotericNationalSocialism" id="47" weight="3.0" />
+      <edge source="VolkischOdina" target="FascistLibrary" id="48" weight="2.0" />
+      <edge source="whiteresistance" target="FaithInRace" id="49" weight="1.0" />
+      <edge source="whiteresistance" target="FascistLibrary" id="50" weight="4.0" />
+      <edge source="whiteresistance" target="Hitler_was_Right" id="51" weight="2.0" />
+      <edge source="whiteresistance" target="Holocaust2" id="52" weight="1.0" />
+      <edge source="whiteresistance" target="Unempatheticeuro" id="53" weight="5.0" />
+      <edge source="whiteresistance" target="WhiteIsRight" id="54" weight="3.0" />
+      <edge source="whiteresistance" target="islamicnatsoc" id="55" weight="14.0" />
+      <edge source="whiteresistance" target="puresodiumpolitics" id="56" weight="1.0" />
+      <edge source="whiteresistance" target="wawaryanwoman" id="57" weight="1.0" />
+      <edge source="whiteresistance" target="white_genocide" id="58" weight="2.0" />
+      <edge source="FaithInRace" target="ChurchofRacism" id="59" weight="5.0" />
+      <edge source="FaithInRace" target="FascistLibrary" id="60" weight="4.0" />
+      <edge source="FaithInRace" target="RapeTibbygram" id="61" weight="2.0" />
+      <edge source="FaithInRace" target="Unempatheticeuro" id="62" weight="12.0" />
+      <edge source="FaithInRace" target="puresodiumpolitics" id="63" weight="2.0" />
+      <edge source="FaithInRace" target="wawaryanwoman" id="64" weight="3.0" />
+      <edge source="FaithInRace" target="whiteresistance" id="65" weight="4.0" />
+      <edge source="puresodiumpolitics" target="FascistLibrary" id="66" weight="1.0" />
+      <edge source="puresodiumpolitics" target="VolkischOdina" id="67" weight="2.0" />
+      <edge source="puresodiumpolitics" target="WhiteIsRight" id="68" weight="3.0" />
+      <edge source="Fascistqoutes" target="EsotericNationalSocialism" id="69" weight="1.0" />
+      <edge source="Fascistqoutes" target="FascistLibrary" id="70" weight="5.0" />
+      <edge source="Fascistqoutes" target="Neonrightmemes" id="71" weight="2.0" />
+      <edge source="Fascistqoutes" target="islamicnatsoc" id="72" weight="1.0" />
+      <edge source="Hitler_was_Right" target="EsotericNationalSocialism" id="73" weight="2.0" />
+      <edge source="Hitler_was_Right" target="FascistLibrary" id="74" weight="4.0" />
+      <edge source="Hitler_was_Right" target="Fascistqoutes" id="75" weight="4.0" />
+      <edge source="Hitler_was_Right" target="Neonrightmemes" id="76" weight="9.0" />
+      <edge source="Hitler_was_Right" target="TheThirdPosition" id="77" weight="1.0" />
+      <edge source="Hitler_was_Right" target="VolkischOdina" id="78" weight="4.0" />
+      <edge source="Hitler_was_Right" target="islamicnatsoc" id="79" weight="9.0" />
+      <edge source="Hitler_was_Right" target="wawaryanwoman" id="80" weight="1.0" />
+      <edge source="Hitler_was_Right" target="whiteresistance" id="81" weight="2.0" />
+      <edge source="TheThirdPosition" target="RapeTibbygram" id="82" weight="1.0" />
+      <edge source="TheThirdPosition" target="untitledredpills" id="83" weight="4.0" />
+      <edge source="Holocaust2" target="TheThirdPosition" id="84" weight="1.0" />
+      <edge source="Holocaust2" target="shapeshifters" id="85" weight="1.0" />
+      <edge source="Holocaust2" target="wawaryanwoman" id="86" weight="2.0" />
+      <edge source="shapeshifters" target="islamicnatsoc" id="87" weight="2.0" />
+      <edge source="ImHitler" target="ImHitler" id="88" weight="1.0" />
+      <edge source="ImHitler" target="VolkischOdina" id="89" weight="5.0" />
+      <edge source="PoliticalMemes" target="PoliticalMemes" id="90" weight="1.0" />
+      <edge source="ProudBoysOfficial" target="Brexiteers" id="91" weight="1.0" />
+      <edge source="ProudBoysOfficial" target="FascistLibrary" id="92" weight="2.0" />
+      <edge source="ProudBoysOfficial" target="PBCanada" id="93" weight="238.0" />
+      <edge source="ProudBoysOfficial" target="ProudBoysCanada" id="94" weight="120.0" />
+      <edge source="ProudBoysOfficial" target="ProudBoysOfficial" id="95" weight="3.0" />
+      <edge source="ProudBoysOfficial" target="ProudboysPDX" id="96" weight="8.0" />
+      <edge source="ProudBoysOfficial" target="brexiteerschatlounge" id="97" weight="3.0" />
+      <edge source="ProudBoysOfficial" target="proudboysaustralia" id="98" weight="2.0" />
+      <edge source="ProudBoysOfficial" target="proudboysbritannia" id="99" weight="9.0" />
+      <edge source="ProudBoysOfficial" target="redpilldragon" id="100" weight="4.0" />
+      <edge source="ProudboysPDX" target="PBCanada" id="101" weight="8.0" />
+      <edge source="ProudboysPDX" target="ProudBoysCanada" id="102" weight="4.0" />
+      <edge source="ProudboysPDX" target="ProudBoysOfficial" id="103" weight="2.0" />
+      <edge source="UniteTheRightUK" target="Brexiteers" id="104" weight="29.0" />
+      <edge source="UniteTheRightUK" target="SheenaParks" id="105" weight="1.0" />
+      <edge source="UniteTheRightUK" target="UniteTheRightUK" id="106" weight="8.0" />
+      <edge source="UniteTheRightUK" target="brexiteerschatlounge" id="107" weight="66.0" />
+      <edge source="UniteTheRightUK" target="proudboysbritannia" id="108" weight="2.0" />
+      <edge source="proudboysaustralia" target="PBCanada" id="109" weight="2.0" />
+      <edge source="proudboysaustralia" target="ProudBoysCanada" id="110" weight="1.0" />
+      <edge source="proudboysaustralia" target="ProudBoysOfficial" id="111" weight="2.0" />
+      <edge source="proudboysaustralia" target="ProudboysPDX" id="112" weight="1.0" />
+      <edge source="proudboysaustralia" target="proudboysbritannia" id="113" weight="6.0" />
+      <edge source="proudboysbritannia" target="PBCanada" id="114" weight="6.0" />
+      <edge source="proudboysbritannia" target="ProudBoysCanada" id="115" weight="3.0" />
+      <edge source="proudboysbritannia" target="ProudBoysOfficial" id="116" weight="10.0" />
+      <edge source="proudboysbritannia" target="ProudboysPDX" id="117" weight="2.0" />
+      <edge source="proudboysbritannia" target="UniteTheRightUK" id="118" weight="2.0" />
+      <edge source="proudboysbritannia" target="brexiteerschatlounge" id="119" weight="5.0" />
+      <edge source="proudboysbritannia" target="proudboysaustralia" id="120" weight="16.0" />
+      <edge source="proudboysbritannia" target="proudboysbritannia" id="121" weight="19.0" />
+      <edge source="SouthAfricaReports" target="Brexiteers" id="122" weight="1.0" />
+      <edge source="SouthAfricaReports" target="SouthAfricaReports" id="123" weight="1.0" />
+      <edge source="SouthAfricaReports" target="WhiteIsRight" id="124" weight="7.0" />
+      <edge source="SouthAfricaReports" target="brexiteerschatlounge" id="125" weight="2.0" />
+      <edge source="SouthAfricaReports" target="islamicnatsoc" id="126" weight="7.0" />
+      <edge source="WhiteIsRight" target="Unempatheticeuro" id="127" weight="2.0" />
+      <edge source="WhiteIsRight" target="islamicnatsoc" id="128" weight="5.0" />
+      <edge source="WhiteIsRight" target="libertaryanchannel" id="129" weight="1.0" />
+      <edge source="WhiteIsRight" target="puresodiumpolitics" id="130" weight="2.0" />
+      <edge source="WhiteIsRight" target="shapeshifters" id="131" weight="1.0" />
+      <edge source="WhiteIsRight" target="white_genocide" id="132" weight="11.0" />
+      <edge source="untitledredpills" target="TheThirdPosition" id="133" weight="1.0" />
+      <edge source="untitledredpills" target="untitledredpills" id="134" weight="2.0" />
+      <edge source="libertaryanchannel" target="LunarHorse" id="135" weight="2.0" />
+      <edge source="libertaryanchannel" target="WhiteIsRight" id="136" weight="2.0" />
+      <edge source="libertaryanchannel" target="islamicnatsoc" id="137" weight="6.0" />
+      <edge source="libertaryanchannel" target="libertaryanchannel" id="138" weight="5.0" />
+      <edge source="libertaryanchannel" target="untitledredpills" id="139" weight="1.0" />
+      <edge source="boogalooprep" target="TheThirdPosition" id="140" weight="6.0" />
+      <edge source="meineehreheissttreue" target="FascistLibrary" id="141" weight="1.0" />
+      <edge source="meineehreheissttreue" target="VolkischOdina" id="142" weight="5.0" />
+      <edge source="pishroofficial" target="pishroofficial" id="143" weight="1.0" />
+      <edge source="weebposting" target="islamicnatsoc" id="144" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>
