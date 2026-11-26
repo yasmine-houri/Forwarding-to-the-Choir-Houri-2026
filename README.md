@@ -38,9 +38,9 @@ Further information about the available data files is provided in `data/README.m
 
 The `code/` directory contains three Jupyter notebooks documenting the computational workflow:
 
-- **`mistral_annotation.ipynb`**: Documents and implements the LLM-based topic annotation procedure using the Mistral API, including the annotation prompts and relevant model configuration.
-- **`statistical_validations.ipynb`**: Reproduces the two statistical tests used to assess the validity of LLM-generated topic annotations against human annotations.
 - **`replication_notebook.ipynb`**: Reproduces the main analyses reported in the paper, combining NLP and SNA.
+- **`mistral_annotation.ipynb`**: Documents and implements the LLM-based topic annotation procedure using the Mistral API, including the annotation prompts, model configuration and the assessment of the validity of LLM-generated topic annotations against human annotations.
+- **`statistical_validations.ipynb`**: Reproduces the two tests used to assess the statistical relevance of the assortativity coefficients.
 
 ## Reproducibility
 
